@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @majakwani
+- 👀 I’m interested in learning about new web related technologies like javascript, ReactJS, VueJs and also about front-end technologies
+- 🌱 I’m currently learning ReactJs from Scrimba.com through a course taught by Bob Ziroll.
+- 💞️ I’m looking to collaborate on any Web related Projects that I can add value to.
+- 📫 How to reach me anasjakwani72@gmail.com/ LinkedIn: https://www.linkedin.com/in/anas-jakwani/ 
