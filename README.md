@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anas Jakwani
+- 👋 Hi, I am a 22 year old Undergraduate student from Karachi, Pakistan.
 - 👀 I’m interested in learning about new web related technologies like javascript, ReactJS, VueJs and also about front-end technologies
 - 🌱 I’m currently learning to integrate ReactJS with Typescript. I am planning to start learning about back-end technologies such as NodeJS, MongoDB and Express.
 - 💞️ I’m looking to collaborate on any Web related Projects that would help me improve me development skills.
