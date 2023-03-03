@@ -1,4 +1,4 @@
-- 👋 Hi, I am a final year student of Computer Science from Karachi, Pakistan.
+- 👋 Hi, I am a Software Engineer from Karachi, Pakistan.
 - 👀 I am learning about web technologies both front-end and back-end. The plan is to become a full-stack developer.
 - 🌱 I’m currently enrolled in Front-end Developer Bootcamp from Scrimba and learning about ReactJS.
 - 💞️ I’m looking to collaborate on any Web related Projects that would help me improve my development skills. I am also interested in working for any open-source projects.
