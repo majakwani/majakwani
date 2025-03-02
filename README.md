@@ -1,5 +1,5 @@
 - 👋 Hi, I am a Software Engineer from Karachi, Pakistan.
-- 👀 I am learning about web technologies both front-end and back-end. The plan is to become a full-stack developer.
+- 👀 I have been working as NetSuite & SuiteCommerce Advanced developer. I also have passion for web development or software development in general.
 - 🌱 I’m currently enrolled in Front-end Developer Bootcamp from Scrimba and learning about ReactJS.
 - 💞️ I’m looking to collaborate on any Web related Projects that would help me improve my development skills. I am also interested in working for any open-source projects.
 - 📫 You can reach me through my email anasjakwani72@gmail.com/ or through my LinkedIn profile LinkedIn: https://www.linkedin.com/in/anas-jakwani/ 
